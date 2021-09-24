@@ -1,2 +1,11 @@
-👋 Hi, I’m @andryushque  
-🌱 I’m currently learning JavaScript and React
+## hello there!
+
+My name is Andrey Ustinov and I'm a frontend developer.
+
+### my tech stack:
+
+- HTML / CSS
+- Javascript / NodeJS
+- React / NextJS
+- React Native
+- Redux
