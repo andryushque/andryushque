@@ -103,6 +103,8 @@ My name is Andrey Ustinov and I'm a frontend developer.
 <summary>[ ...ideas ] </summary>
   
 ####
+ /* in progress */
+####
 - developer tools
 - useful links
 - books / articles
