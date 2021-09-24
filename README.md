@@ -4,7 +4,7 @@ My name is Andrey Ustinov and I'm a frontend developer.
 
 ***
 
-### [my tech stack]
+### [ tech stack ]
 
 - HTML / CSS
 - Javascript / NodeJS
@@ -14,16 +14,21 @@ My name is Andrey Ustinov and I'm a frontend developer.
 
 ***
 
-### [my projects]
+### [ projects ]
 
 <details>
-<summary>⚡️ [== course / test projects ==] </summary>
+<summary>[ course projects ] </summary>
   
 #### javascript
 
 - [brain games](https://github.com/andryushque/frontend-project-lvl1)
 - [diff generator](https://github.com/andryushque/frontend-project-lvl2)
 - [rss reader](https://github.com/andryushque/frontend-project-lvl3)
+  
+##
+#### html5 / css3
+- [moon sea](https://github.com/andryushque/layout-designer-project-lvl1)
+- [music box](https://github.com/andryushque/layout-designer-project-lvl2)
  
 ##
 #### html5 / css3 / js
@@ -42,18 +47,20 @@ My name is Andrey Ustinov and I'm a frontend developer.
 </details>
 
 <details>
-<summary>⚡️ [== react applications ==] </summary>
+<summary>[ react applications ] </summary>
   
-#### react
+####
   
 - [star wars db](https://github.com/andryushque/star-db)
+- [todo app](https://github.com/andryushque/todo-app)
 - [react hooks](https://github.com/andryushque/hooks)
+- [restore](https://github.com/andryushque/restore)
   
 ##
 </details>
 
 <details>
-<summary>⚡️ [== random landings ==] </summary>
+<summary>[ random landings ] </summary>
   
 #### html5 / css3 / scss / js / php
   
@@ -70,9 +77,21 @@ My name is Andrey Ustinov and I'm a frontend developer.
 - [drone](https://github.com/andryushque/drone)
 - [barmy-graffiti](https://github.com/andryushque/barmy-graffiti)
 - [survive-game](https://github.com/andryushque/survive-game)
+- [personal-blog](https://github.com/andryushque/personal-blog)
 ####
-- [S&Mitler](https://github.com/andryushque/layout-project-05)
+- [landing-1](https://github.com/andryushque/layout-project-01)
+- [landing-2](https://github.com/andryushque/layout-project-02)
+- [landing-5](https://github.com/andryushque/layout-project-05)
 
-###
+##
 </details>
 
+<details>
+<summary>[ other projects ] </summary>
+  
+####
+- [threejs starter](https://github.com/andryushque/threejs-starter)
+####
+
+##
+</details>
