@@ -1,9 +1,10 @@
 ## hello there!
 
+### [ about me ]
+
 My name is Andrey Ustinov and I'm a frontend developer.
 
-***
-
+##
 ### [ tech stack ]
 
 - HTML5 / CSS3 / SCSS
@@ -11,8 +12,7 @@ My name is Andrey Ustinov and I'm a frontend developer.
 - React / NextJS
 - React Native
 
-***
-
+##
 ### [ projects ]
 
 <details>
