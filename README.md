@@ -94,3 +94,19 @@ My name is Andrey Ustinov and I'm a frontend developer.
 
 ##
 </details>
+
+
+##
+### [ materials ]
+
+<details>
+<summary>[ ...ideas ] </summary>
+  
+####
+- developer tools
+- useful links
+- books / articles
+####
+
+##
+</details>
