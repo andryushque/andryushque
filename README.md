@@ -6,11 +6,10 @@ My name is Andrey Ustinov and I'm a frontend developer.
 
 ### [ tech stack ]
 
-- HTML / CSS
-- Javascript / NodeJS
+- HTML5 / CSS3 / SCSS
+- JavaScript
 - React / NextJS
 - React Native
-- Redux
 
 ***
 
